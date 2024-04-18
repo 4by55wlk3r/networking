@@ -1,0 +1,8 @@
+Static routes have to be setup manually.
+Dynamic routing protocols are setup automatically.
+The routers will share information with each other on dynamic routing.
+
+In dynamic routing if a subnet goes down router will automatically figure out a new best path if one is available and this does not exist on static routing.
+
+You can use static routing for backup purposes or for a static route to the internet.
+
